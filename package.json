@@ -1,0 +1,27 @@
+{
+  "name": "mern_tutorial",
+  "version": "1.0.0",
+  "description": "Build a Project with GraphQL, Node, MongoDB and React.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HenrikVL/MERN_tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HenrikVL/MERN_tutorial/issues"
+  },
+  "homepage": "https://github.com/HenrikVL/MERN_tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
